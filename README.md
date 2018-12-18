@@ -10,6 +10,7 @@ About
 
 ``BraviaRC`` is a Python library for remote communication with Sony Bravia TVs 2013 and newer
 (http://info.tvsideview.sony.net/en_ww/home_device.html#bravia)
+Experiments in the background to get this to work with onlder Sony Bravia devices but nothing of any significance uploaded yet.
 
 Requirements
 ============
